@@ -1,5 +1,3 @@
-![](img/project_header.png)
-
 # SpaceX ISS Simulator Autopilot
 Successfully dock dragon capsule autonomously with a 6DoF PID control architecture. Written in JS for ease of controlling simulator. 
 
