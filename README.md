@@ -13,4 +13,4 @@ Uses 6 separate PDs controllers for are used for yaw, pitch roll, x, y, and z. S
 4. Copy and paste the code in [spacex-iss-autopilot.js](https://raw.githubusercontent.com/handcraftedcode1/spacex-iss-simulator-autopilot/master/spacex-iss-autopilot.js) into the Console
 5. Press enter
 6. Click the "ENABLE KM AUTOPILOT v1.0" in the top-right corner of the screen
-7. Watch the dragon capsule docker autonomously :-)
+7. Watch the dragon capsule navigate and dock autonomously :-)
